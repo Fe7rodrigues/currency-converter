@@ -25,7 +25,7 @@ Para usar esse projeto, você precisa seguir os seguintes passos:
 
 ## Créditos
 
-Esse projeto foi criado por [Felipe Rodrigues](https://github.com/Fe7rodrigues).
+Esse projeto foi criado por [Fernando Rodrigues](https://github.com/Fe7rodrigues).
 
 ## Licença
 
